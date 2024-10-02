@@ -1,0 +1,8 @@
+int =>
+bytes = 4 bytes 
+bits = 32 bits 
+
+Char =>
+bytes = 1 bytes
+bits = 8 bits
+
